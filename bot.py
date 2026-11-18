@@ -20,7 +20,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # НАСТРОЙКИ
 # =================================
 
-TOKEN = "потом токен"
+TOKEN = "9136302825:AAH2_4nHJFRQsobtFX1r_b23Gobf46lDXEs"
 
 OWNER_ID = 6521440750
 ADMIN_GROUP_ID = -5303157472
